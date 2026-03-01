@@ -60,7 +60,7 @@
     "loading",
     "animation"
   ],
-  "packageManager": "pnpm@10.11.1",
+  "workspaces": ["test", "website"],
   "repository": {
     "type": "git",
     "url": "https://github.com/zainzafar90/lumidot"
