@@ -1,6 +1,6 @@
 {
   "name": "lumidot",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A 3x3 dot-grid loader for React, inspired by the RGB spinner animation",
   "license": "MIT",
   "author": {
