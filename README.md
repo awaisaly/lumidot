@@ -2,6 +2,8 @@
 
 Dot-grid loading animations for React. Tiny, flexible, beautiful.
 
+Inspiration credit goes to Kevin's post: https://x.com/k_grajeda/status/2009281651260481675
+
 ![lumidot](./lumidot.gif)
 
 ## Installation
