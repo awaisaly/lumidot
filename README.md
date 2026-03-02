@@ -1,6 +1,7 @@
 # lumidot
 
-Dot-grid loading animations for React. Tiny, flexible, beautiful.
+Dot-grid loading animations for React. Tiny, flexible, beautiful. 36 patterns & 20 colors.
+
 
 Inspiration credit goes to Kevin's post: https://x.com/k_grajeda/status/2009281651260481675
 
